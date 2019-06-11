@@ -2,6 +2,8 @@
 
 Monster mash is a fun web application where users can sign up and show off their monster creations. Monsters are created through a mix-and-match system of different body parts for the head, torso, and legs. Users can also position each body part and scale them differently for further customization. All created monsters are publically visible, and other users can like other monsters and enter their own monsters in contests in which users vote for their favorite monster.
 
+![demo](https://giant.gfycat.com/EntireBlushingGangesdolphin.gif)
+
 # Built with
 
 - Ruby on Rails
@@ -41,6 +43,8 @@ On the homepage, a user can create a new game with the create game button, or jo
 ## Creating a monster
 
 After signing in through the sign up page, users can create monsters through the nav bar. They can enter in details for the monster name and select and customize the different types of body parts. Users can interact with the monster body by clicking and dragging the body parts. Various monster details such as age, height, and weight are based on the date the monster was created and the size of the body parts.
+
+![create-monster](https://i.imgur.com/lq7ETdk.png)
 
 ## Participating in a contest
 
